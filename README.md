@@ -1,1 +1,2 @@
-# imputation-powered-inference
+Repository for imputation-powered inference.
+
