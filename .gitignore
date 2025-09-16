@@ -17,7 +17,11 @@ __pycache__/
 logs/
 *.log
 
-data
+data/*
+!data/factor_model/
+!data/census_survey/
+data/census_survey/*
+data/factor_model/*
 !data/factor_model/covq2d20.safetensors
 !data/census_survey/acs_2019_CA_filtered.parquet
 !data/census_survey/acs_2019_CA.parquet
